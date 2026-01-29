@@ -19,39 +19,39 @@ Cette application permet aux utilisateurs de:
 <table>
   <tr>
     <td align="center">
-      <img src="./assets/screenshots/onboarding.png" width="200" alt="Onboarding">
+      <img src="./assets/images/onboarding.png" width="200" alt="Onboarding">
       <br><em>écran d'accueil</em>
     </td>
     <td align="center">
-      <img src="./assets/screenshots/auth.png" width="200" alt="Authentification">
+      <img src="./assets/images/auth.png" width="200" alt="Authentification">
       <br><em>Inscription & Connexion</em>
     </td>
     <td align="center">
-      <img src="./assets/screenshots/home_calcul_des_calories.png" width="200" alt="Accueil">
+      <img src="./assets/images/home_calcul_des_calories.png" width="200" alt="Accueil">
       <br><em>Accueil & Calories</em>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./assets/screenshots/recipes.png" width="200" alt="Recettes">
+      <img src="./assets/images/recipes.png" width="200" alt="Recettes">
       <br><em>Bibliothèque de recettes</em>
     </td>
     <td align="center">
-      <img src="./assets/screenshots/favorites.png" width="200" alt="Favoris">
+      <img src="./assets/images/favorites.png" width="200" alt="Favoris">
       <br><em>Recettes favorites</em>
     </td>
     <td align="center">
-      <img src="./assets/screenshots/shopping.png" width="200" alt="Courses">
+      <img src="./assets/images/shopping.png" width="200" alt="Courses">
       <br><em>Liste de courses</em>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="./assets/screenshots/profile.png" width="300" alt="Profil">
+      <img src="./assets/images/profile.png" width="300" alt="Profil">
       <br><em>Profil & Formulaire dynamique</em>
     </td>
     <td align="center">
-      <img src="./assets/screenshots/planning.png" width="200" alt="Planning">
+      <img src="./assets/images/planning.png" width="200" alt="Planning">
       <br><em>Planification des repas</em>
     </td>
   </tr>
