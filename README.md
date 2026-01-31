@@ -2,7 +2,7 @@
 
 ## 📱 Description
 
-**FitBite** est une **application mobile native multi-plateforme** (iOS & Android) complète développée avec:
+**FitBite** est une **application mobile native multi-plateforme** (iOS & Android) complète qui propose dees recettes dédiées aux femmes enceintes, adaptées à leur stade de grossesse développée avec:
 - **Frontend**: React Native avec Expo (multiplateforme)
 - **Backend**: Node.js avec Express.js (API RESTful)
 
